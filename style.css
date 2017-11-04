@@ -1,0 +1,106 @@
+.disable_padding_right{
+    padding-right: 0;
+}
+header{
+    background-color: #A0C3F8;
+    min-height: 100px;
+    margin-bottom: 10px;
+}
+
+.brand,.global_nav,.tools{
+    background-color: #D0E2FD;
+    min-height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.title{
+    text-align: center;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.hero_content{
+    background-color: #A0C3F8;
+    min-height: 200px;
+}
+
+.add{
+    background-color: #70A8DD;
+    min-height: 200px;
+}
+
+.hero_feature{
+    background-color: #D0E2FD;
+    min-height: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hero_call_to_action{
+    background-color: #D0E2FD;
+    min-height: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.body_content, .sidebar_feature{
+    background-color: #A0C3F8;
+    min-height: 450px;
+    margin-top: 10px;
+}
+
+.article_feature,.article_listing{
+    background-color: #D0E2FD;
+    min-height: 400px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.sidebar_feature{
+    padding: 25px 10px 15px 10px;
+}
+
+.feature_content{
+    background-color: #D0E2FD;
+    min-height: 400px;
+    width: 100%;
+}
+
+footer{
+    background-color: #A0C3F8;
+    min-height: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
